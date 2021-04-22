@@ -1,0 +1,18 @@
+
+.entête{
+    text-align: center;
+    margin: 5%;
+}
+.rose{
+    color: palevioletred;
+}
+.plein{
+    height: auto;
+}
+.demi{
+    height: auto;
+}
+.plein, .demi{
+    width: 100%;
+    padding-bottom: 20px;
+}
